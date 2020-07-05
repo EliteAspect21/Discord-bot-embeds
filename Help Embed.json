@@ -1,0 +1,11 @@
+{
+    "embed": {
+        "title": "Help Menu",
+        "color": 2354427,
+        "footer": {
+            "icon_url": "https://apprecs.org/ios/images/app-icons/256/f9/1197935609.jpg",
+            "text": "YOUR BOT Administration System"
+        },
+        "description": "-Command1 - Describe what this does\n-Command2 - Describe what this does\n-Command3 - Describe what this does"
+    }
+}
