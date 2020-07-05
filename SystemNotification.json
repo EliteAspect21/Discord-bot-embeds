@@ -1,0 +1,11 @@
+{
+    "embed": {
+        "title": "System Notification",
+        "footer": {
+            "icon_url": "https://apprecs.org/ios/images/app-icons/256/f9/1197935609.jpg",
+            "text": "YOUR BOT Administration System"
+        },
+        "color": 14563583,
+        "description": "Notification from ADMIN:\n\n\"Message\""
+    }
+}
