@@ -1,0 +1,11 @@
+{
+    "embed": {
+        "title": "ERROR",
+        "footer": {
+            "icon_url": "https://apprecs.org/ios/images/app-icons/256/f9/1197935609.jpg",
+            "text": "YOUR BOT Administration System"
+        },
+        "color": 11337728,
+        "description": "BOT NAME has encountered this error: ERROR_CODE"
+    }
+}
