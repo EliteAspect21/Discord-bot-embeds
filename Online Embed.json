@@ -1,0 +1,11 @@
+{
+    "embed": {
+        "title": "Online",
+        "footer": {
+            "icon_url": "https://apprecs.org/ios/images/app-icons/256/f9/1197935609.jpg",
+            "text": "YOUR BOT Administration System"
+        },
+        "description": "BOT NAME is now online!",
+        "color": 16777215
+    }
+}
