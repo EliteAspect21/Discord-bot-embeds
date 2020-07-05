@@ -1,0 +1,10 @@
+{
+    "embed": {
+        "title": "FATAL ERROR",
+        "footer": {
+            "icon_url": "https://apprecs.org/ios/images/app-icons/256/f9/1197935609.jpg",
+            "text": "YOUR BOT Administration System"
+        },
+        "description": "A fatal error was encountered. To protect files from corruption, BOT NAME will be shutting down"
+    }
+}
